@@ -5,7 +5,7 @@ function Main(){
     return (
         <div className="main">
             <p>
-                This is the content of our website
+                This is the content of my website
             </p>
 
         </div>
