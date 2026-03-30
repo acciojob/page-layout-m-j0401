@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer(){
     return <div className="foot">
-    <p>&copy; 2023 My Website. All rights reserved.</p>
+    <h5>&copy; 2023 My Website. All rights reserved.</h5>
     </div>
 }
 
